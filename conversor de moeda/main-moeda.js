@@ -21,3 +21,4 @@ switch(opcaoDeMoeda){
 }
 
 alert("valor em Reais : " + quantidadeEmReais + "\n" + "Moeda Esolhida : " + moedaEscolhida + "\n" + "valor Convertido : " + valorConvertido  )
+
